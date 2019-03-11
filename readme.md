@@ -14,7 +14,7 @@ This app implements [the design project named after the same title](https://shau
 
 # Dev Notes
 
-**TODO:** move this dev notes (diary) to a dedicated place. Only public-facing content here.
+**TODO:** 🔥🔥🔥 move this dev notes (diary) to a dedicated place. Only public-facing content here.
 
 Following [Facebook official guide](https://facebook.github.io/react-native/docs/getting-started.html).
 
