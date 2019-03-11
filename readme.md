@@ -1,3 +1,17 @@
+# Blue Bucks Diner
+
+This app implements [the design project named after the same title](https://shaungc.com/portfolio/4), which aims to improve the dining experience on campus of University of Michigan. The backend [resides in a separated repository](https://github.com/rivernews/bb-rest-api). This is a personal project along with SI 691: Independent Study.
+
+**Tech Stack**
+
+- Front End: React Native
+- Backend: Node.js + MongoDB + Nginx
+- DevOps: Docker + Terraform + AWS ECS
+
+# Getting Started
+
+- To run the app in a iOS simulator, run `react-native run-ios`.
+
 # Dev Notes
 
 Following [Facebook official guide](https://facebook.github.io/react-native/docs/getting-started.html).
@@ -12,3 +26,5 @@ Before installing watchman, this will require `python`, which is in fact python3
 brew install watchman
 npm install -g react-native-cli
 ```
+
+- Requesting API to the backend: [Networking](https://facebook.github.io/react-native/docs/network).
